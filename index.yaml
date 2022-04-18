@@ -19,6 +19,6 @@ entries:
     sources:
     - https://github.com/konpyutaika/nifikop
     urls:
-    - nifikop-0.10.0.tgz
+    - https://tablecheck-labs.github.io/nifikop/nifikop-0.10.0.tgz
     version: 0.10.0
 generated: "2022-04-18T19:16:02.405819+09:00"
